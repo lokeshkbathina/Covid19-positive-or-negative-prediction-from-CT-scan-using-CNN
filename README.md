@@ -1,0 +1,1 @@
+# Covid19-positive-or-negative-prediction-from-CT-scan-using-CNN
